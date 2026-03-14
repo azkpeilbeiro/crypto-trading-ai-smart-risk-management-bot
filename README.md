@@ -52,15 +52,9 @@ Ideal for **futures**, **high-leverage**, and **swing** traders who want automat
 
 ## Screenshots
 
-Screenshots live in the `images/` folder. Add files (e.g. `dashboard.png`, `chart.png`) to display them here.
-
-| Dashboard | Chart |
-|-----------|--------|
-| ![Dashboard](images/dashboard.png) | ![Chart](images/chart.png) |
-
-| Positions & Risk | Equity & API |
-|------------------|--------------|
-| ![Positions](images/positions.png) | ![Equity](images/equity.png) |
+| Screenshot 2 | Screenshot 3 |
+|--------------|--------------|
+| ![Screenshot 2](images/Screenshot_2.png) | ![Screenshot 3](images/Screenshot_3.png) |
 
 ---
 
