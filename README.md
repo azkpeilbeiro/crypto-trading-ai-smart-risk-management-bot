@@ -201,12 +201,9 @@ Body: same shape as `RiskAdjustment`. In production this would call the exchange
 
 ---
 
-## Contact
+## 📬 Contact
 
-**Telegram:** [@YourTelegram](https://t.me/YourTelegram) — replace with your handle for support and updates.
+For questions, support, or help tailoring the Smart Risk Management Bot to your strategy and exchange setup, reach out on Telegram.
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20me-blue?style=for-the-badge&logo=telegram)](https://t.me/galileo0000)
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
