@@ -8,7 +8,7 @@
 
 I can help grow your profits, tailor the bot to what you need, and make your trading safer and more rewarding with custom risk rules and automation. Get in touch—I’m happy to help.
 
-**Contact me:** [Telegram](https://t.me/galileo0000)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20me-blue?style=for-the-badge&logo=telegram)](https://t.me/galileo0000)
 
 ---
 
