@@ -4,6 +4,11 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688.svg)](https://fastapi.tiangolo.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20me-blue?style=flat-square&logo=telegram)](https://t.me/galileo0000)
+
+I can help grow your profits, tailor the bot to what you need, and make your trading safer and more rewarding with custom risk rules and automation. Get in touch—I’m happy to help.
+
+**Contact me:** [Telegram](https://t.me/galileo0000)
 
 ---
 
